@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 jupyterlab
+xgboost
+tensorflow
+keras
